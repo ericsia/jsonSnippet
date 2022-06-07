@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ericsia.github.io/jsonSnippet/sitemap.xml
